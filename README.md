@@ -1,4 +1,4 @@
-# Landing with 3D Graphics
+# Landing Page with 3D Graphics
 
 A little experiment where I tried integrating my spline 3D model
 into a react app.
